@@ -2,31 +2,31 @@
 
 > 15–25 tags. Voir Regles_SEO.md.
 
-## Liste (à affiner)
+## Liste retenue (20)
 
 - Soundiata Keïta
-- Soundiata Keïta, fondateur de l'Empire du Mali
+- Soundiata
+- Sundiata Keita
 - Empire du Mali
-- Afrique de l'Ouest
-- résistance africaine
-- histoire africaine
+- Mali Empire
 - bataille de Kirina
 - Soumaoro Kanté
-- Royaume Sosso
+- royaume Sosso
 - Kurukan Fuga
 - Charte du Manden
+- Manden
+- épopée mandingue
 - griot
+- histoire africaine
+- résistance africaine
 - figures historiques
 - Histoires Taboues
 - documentaire histoire
-- African history (EN)
-- Mali Empire (EN)
-- Sundiata Keita (EN)
-- Manden
+- Mansa Moussa
 - XIIIe siècle
 
 ## Contrôle
 
-- [ ] 15–25 tags.
-- [ ] Variantes FR/EN incluses.
-- [ ] Pas de tag hors-sujet.
+- [x] 15–25 tags (20).
+- [x] Variantes FR/EN incluses (Sundiata Keita, Mali Empire).
+- [x] Pas de tag hors-sujet.

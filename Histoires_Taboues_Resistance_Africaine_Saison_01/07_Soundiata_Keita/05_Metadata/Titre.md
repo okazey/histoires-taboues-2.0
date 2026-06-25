@@ -2,16 +2,24 @@
 
 > 60–70 caractères. Mot-clé fort en tête. Voir Regles_SEO.md.
 
-## Propositions
+## Propositions (avec compte de caractères)
 
-1. Soundiata Keïta — l'empire africain que l'on a oublié
-2. Soundiata : l'enfant infirme devenu empereur du Mali
-3. _placeholder_ (angle émotion : la bataille de Kirina)
-4. _placeholder_ (angle question : la première charte des droits ?)
+1. **Soundiata Keïta : l'empire africain que l'on a effacé** — 50 car.
+2. **Soundiata, l'enfant infirme devenu empereur du Mali** — 51 car.
+3. **L'empire oublié de Soundiata Keïta (1235)** — 43 car.
+4. **Soundiata Keïta : la première charte des droits ?** — 50 car.
 
-## Titre retenu
+## Titre retenu (recommandation)
 
-> **_à choisir_**
+> **Soundiata Keïta : l'empire africain que l'on a effacé**
 
-- Caractères : ____ / 70
-- Test mobile (troncature) : [ ] OK
+- Caractères : 50 / 70 ✅
+- Test mobile (troncature) : [ ] à confirmer
+- Cohérence promesse/contenu : ✅ (la vidéo explique l'oubli ET l'empire)
+
+## Variante A/B suggérée
+- A : « Soundiata Keïta : l'empire africain que l'on a effacé »
+- B : « Soundiata, l'enfant infirme devenu empereur du Mali »
+  (B = angle émotionnel/personnage ; à tester contre A = angle « oubli ».)
+
+<!-- COMMENTAIRE : pas de fausse promesse — le « ? » du titre 4 invite au débat, conforme à la prudence sur Kurukan Fuga. -->

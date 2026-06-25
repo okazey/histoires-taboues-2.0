@@ -1,37 +1,231 @@
 # Script Final — Soundiata Keïta
 
-> Version prête pour la voix. Verrouillée. Aucune affirmation non sourcée.
->
-> **Cible : 5500–6500 mots.** Structure imposée en 8 actes (adaptée au médiéval).
+> Version prête pour la voix. Structure imposée en 8 actes (adaptée au médiéval).
+> Cible : 5500–6500 mots. Durée visée : 25–30 min.
+> Convention de sources : [SP#] = Sources_Primaires, [SU#] = Sources_Universitaires.
+> Règle d'or : tout élément issu de l'épopée est introduit par « selon la tradition ».
 
-- **Figure :** Soundiata Keïta, fondateur de l'Empire du Mali
+- **Figure :** Soundiata Keïta (Mari Djata), fondateur de l'Empire du Mali
 - **Conflit central :** Bataille de Kirina (v. 1235)
-- **Adversaire :** Royaume Sosso de Soumaoro Kanté
+- **Adversaire :** Soumaoro (Sumanguru) Kanté, roi du royaume Sosso
+- **Comptage approximatif :** ~4000 mots de narration rédigés (trame complète et sourcée).
+  À étoffer vers 5500–6500 mots lors des passes de réécriture / enregistrement (développer les
+  scènes de bataille, les descriptions du Manden, les transitions). Recompter avant verrouillage.
 
 ---
 
-## 1. Hook émotionnel
-[VISUEL] · [NARRATION] · [NOTE PROD]
-<!-- Placeholder. -->
-## 2. Contexte historique
-<!-- Placeholder. -->
-## 3. Ascension
-<!-- Placeholder. -->
-## 4. Guerre
-<!-- Placeholder. -->
-## 5. La riposte Sosso
-<!-- Placeholder. -->
-## 6. Triomphe / Kurukan Fuga
-<!-- Placeholder. -->
-## 7. Pourquoi il a été oublié (hors d'Afrique)
-<!-- Placeholder. -->
-## 8. Héritage
-<!-- Placeholder. -->
+## 1. Hook émotionnel  `[~0:00–1:00]`
+
+[VISUEL : P01 — gros plan sur le visage de Soundiata, regard intense. Lumière rasante, fond noir.]
+[NOTE PROD : kora seule, une note tenue, grave. Voir 06_Audio/Prompt_Musique.md.]
+
+[NARRATION]
+On vous a appris les noms de Charlemagne, de Guillaume le Conquérant, de Gengis Khan. On vous a rarement appris le sien.
+
+Pourtant, au moment où, en Angleterre, des barons arrachent la Grande Charte à leur roi, un homme, à l'autre bout du monde, dans la savane d'Afrique de l'Ouest, fait quelque chose de comparable. Il rassemble des peuples divisés, écrase un tyran, et fait proclamer devant une assemblée de clans une charte qui interdit la razzia, protège la vie humaine et organise la paix entre les communautés.
+
+Cet homme s'appelle Soundiata Keïta. Il fonde l'un des plus grands empires que la Terre ait portés : l'Empire du Mali. Un empire qui, un siècle plus tard, sera si riche en or qu'un de ses souverains fera trembler l'économie de l'Égypte rien qu'en passant.
+
+Et pourtant, son nom a glissé hors de nos manuels. Pourquoi ? C'est ce que nous allons raconter.
+
+[VISUEL : carton-titre « SOUNDIATA KEÏTA — L'EMPIRE QUE L'ON A OUBLIÉ ».]
 
 ---
 
-### Verrouillage
-- [ ] Relu à voix haute.
-- [ ] Prononciations notées dans 06_Audio/Narration.md.
-- [ ] Histoire et épopée clairement distinguées.
-- [ ] Timecodes cohérents avec Timeline.md.
+## 2. Contexte historique  `[~1:00–5:00]`
+
+[VISUEL : C01 — carte du Manden, fleuve Niger ; puis S02 — vie quotidienne dans le Manden.]
+[NOTE PROD : kora, balafon, ngoni. Ambiance ample, narrative.]
+
+[NARRATION]
+Pour comprendre Soundiata, il faut d'abord comprendre le monde qui l'a vu naître. Nous sommes au début du XIIIe siècle, dans cette région d'Afrique de l'Ouest que les habitants appellent le Manden — le pays mandingue, à cheval sur les actuels Mali et Guinée, le long du grand fleuve Niger [SU2].
+
+Un siècle plus tôt, toute cette région vivait dans l'ombre d'un géant : l'Empire du Ghana. Attention : ce Ghana médiéval n'a rien à voir avec le pays qui porte ce nom aujourd'hui. C'était un État puissant, enrichi par le commerce de l'or et du sel qui traversait le Sahara à dos de chameau. Mais au début du XIIIe siècle, ce géant est à bout de souffle. Il se fragmente. Et dans tout vide de pouvoir, quelqu'un s'engouffre.
+
+Ce quelqu'un, c'est le royaume Sosso, et son roi : Soumaoro Kanté — on dit aussi Sumanguru. Les Sosso étaient réputés pour leur maîtrise du fer, pour leurs forgerons. Et selon la tradition orale, Soumaoro n'était pas seulement un roi : c'était un homme redoutable, dont on disait qu'il maîtrisait des forces occultes [SP1]. Gardons cette précision en tête : « selon la tradition ». Car ici commence un point essentiel de notre histoire.
+
+[VISUEL : insert — un griot/djéli jouant de la kora.]
+
+[NARRATION]
+L'histoire de Soundiata ne nous est pas parvenue par des archives écrites rédigées sur le moment. Elle nous est parvenue par la voix. Par des hommes que l'on appelle les djéli — les griots. Pendant des siècles, de génération en génération, ces maîtres de la parole ont récité l'épopée de Soundiata, l'ont chantée, l'ont transmise [SP1][SU5]. C'est une source d'une richesse immense. Mais c'est aussi une source qui mêle le fait historique et le merveilleux, l'événement réel et la légende fondatrice. Notre travail, tout au long de cette vidéo, sera de faire la part des choses — de vous dire, à chaque fois, ce qui est établi et ce qui relève du récit.
+
+Ce que les historiens tiennent pour solide, c'est ceci : au début du XIIIe siècle, le Manden est dominé, humilié, soumis au royaume Sosso de Soumaoro. Les clans mandingues sont divisés, incapables de s'unir. Et c'est dans ce pays sous le joug que va surgir un enfant dont personne n'attendait rien.
+
+[NOTE PROD : transition, montée légère vers l'acte suivant.]
+
+---
+
+## 3. Ascension  `[~5:00–10:00]`
+
+[VISUEL : P03 — jeune Soundiata ; S01 — cour mandingue, cérémonie.]
+[NOTE PROD : percussions douces, djembé en fond, motif d'espoir.]
+
+[NARRATION]
+Selon la tradition, Soundiata est le fils du roi du Manden, Naré Maghann Konaté, et d'une femme nommée Sogolon Condé [SP1][SU1]. L'épopée la surnomme « la femme-buffle », une femme au physique ingrat mais porteuse, dit-on, d'une destinée extraordinaire. Car un chasseur-devin aurait prédit au roi que cette femme lui donnerait un fils appelé à devenir le plus grand des souverains.
+
+Mais l'enfant qui naît semble démentir la prophétie. Et c'est l'un des épisodes les plus célèbres du récit. Selon la tradition, le jeune Soundiata ne marche pas. À sept ans, à huit ans, il se traîne encore au sol. On le moque, on l'humilie, on raille sa mère [SP1]. Le fils annoncé comme un roi est la risée de la cour.
+
+Puis vient la scène fondatrice. Sogolon, humiliée une fois de trop, fond en larmes devant son fils. Et selon la tradition, ce jour-là, l'enfant demande qu'on lui apporte une barre de fer. Il s'y agrippe. Il pousse. Le fer se tord sous ses mains comme un arc. Et Soundiata se dresse, debout, pour la première fois [SP1].
+
+[VISUEL : E-thème — un baobab, une barre de fer tordue ; rester sur le symbole.]
+
+[NARRATION]
+Je m'arrête un instant. Cette scène est magnifique, mais elle est l'épopée, pas la chronique. Ce que les historiens en retiennent, c'est sa fonction : elle dit la transformation d'un être méprisé en chef, le surgissement de la volonté contre le destin imposé. Faut-il qu'un enfant ait réellement tordu une barre de fer ? Non. Faut-il comprendre que les peuples du Manden se sont reconnus dans ce récit de relèvement ? Absolument [SU5][SU6].
+
+Vient ensuite l'exil. La cour est un lieu dangereux. Selon la tradition, l'hostilité d'une rivale et les rivalités de succession poussent Sogolon à fuir avec ses enfants pour protéger la vie de Soundiata [SP1]. Commence alors une errance de plusieurs années à travers les royaumes voisins. Et cet exil, loin d'être une parenthèse, est la véritable école du futur empereur.
+
+Car l'errance les conduit jusqu'au royaume de Mema. Là, le roi Moussa Tounkara accueille le jeune homme, l'apprécie, l'élève dans son entourage [SP1][SU1]. Soundiata apprend l'art de la guerre, l'art de gouverner. Il gravit les échelons jusqu'à devenir, dit-on, le vice-roi de Mema, gouvernant en l'absence du souverain. L'enfant qu'on disait infirme est devenu un commandant respecté, loin de chez lui.
+
+[NARRATION]
+Pendant ce temps, dans le Manden, l'étau se resserre. Soumaoro Kanté étend sa domination, soumet les clans mandingues, lève des tributs, et selon les récits, multiplie les exactions. Le pays appelle un libérateur. Et des émissaires partent à la recherche de l'exilé. Ils finissent par retrouver Soundiata à Mema [SP1].
+
+Le moment est venu de rentrer. Non plus comme un enfant moqué. Mais comme un chef à la tête d'alliés.
+
+[NOTE PROD : montée rythmique, cliffhanger — fin de l'acte sur la décision du retour.]
+
+---
+
+## 4. Guerre  `[~10:00–20:00]`
+
+[VISUEL : S07 — les clans jurant alliance ; S10 — Soundiata revenant d'exil ; S03 — armée en marche.]
+[NOTE PROD : tambours de guerre, intensité haute. Voir Prompt_Musique « Guerre ».]
+
+[NARRATION]
+Le retour de Soundiata est aussi une œuvre politique. Car un homme seul ne renverse pas un empire. Ce que réussit Soundiata, et c'est sans doute son plus grand génie, c'est de fédérer. De rassembler les clans mandingues divisés, jaloux, méfiants les uns des autres, et d'en faire une coalition [SP1][SU2].
+
+Autour de lui se rangent des chefs de guerre dont les griots chantent encore les noms — selon les versions, des figures comme Tiramakan ou Fakoli, ce dernier étant lui-même, dans certaines traditions, un neveu de Soumaoro passé du côté de Soundiata [SP1]. Retenez ce détail : même dans le camp Sosso, des hommes choisissent la liberté du Manden. La domination de Soumaoro était devenue insupportable jusque dans sa propre famille.
+
+[VISUEL : S05 — l'armée Sosso de Soumaoro en marche, face à face qui se prépare.]
+
+[NARRATION]
+Les deux armées finissent par se chercher. Plusieurs affrontements préliminaires ont lieu — la tradition en énumère, où Soundiata teste l'ennemi, recule, revient. Mais tout converge vers une plaine, dans la région de Koulikoro, dans l'actuel Mali. Un lieu dont le nom va devenir un acte de naissance : Kirina [SU2].
+
+Nous sommes aux alentours de l'an 1235 [SU2][SU3]. Je dis « aux alentours » : pour une bataille du XIIIe siècle ouest-africain, nous n'avons pas de date au jour près, et il faut s'en méfier quand une source l'affirme trop précisément.
+
+[NOTE PROD : silence bref avant la bataille, puis tambours.]
+
+[NARRATION]
+Et c'est ici que l'histoire et l'épopée se rejoignent dans une scène inoubliable. Car selon la tradition, Soumaoro Kanté est invincible. Les flèches rebondissent sur lui. Aucune arme ne l'atteint. Il est protégé par des forces que nul ne comprend [SP1].
+
+Comment vaincre un homme que rien ne peut blesser ? La réponse, dans le récit, tient à un secret. Soundiata aurait découvert — par ruse, par renseignement, par une sœur infiltrée dans le camp ennemi selon certaines versions — le point faible de Soumaoro. Sa vulnérabilité : l'ergot d'un coq blanc. Et sur le champ de Kirina, Soundiata décoche une flèche armée de cet ergot. Elle effleure Soumaoro. Et d'un coup, sa puissance occulte le quitte [SP1].
+
+[VISUEL : S04 — bataille de Kirina, cavalerie et archers, chaos, fumée.]
+
+[NARRATION]
+Encore une fois : ceci est l'épopée. Ce que l'histoire retient, dépouillé du merveilleux, est peut-être plus impressionnant encore. À Kirina, une coalition de clans, longtemps incapables de s'entendre, unie par un seul homme, met en déroute la première puissance militaire de la région. Le roi Sosso est vaincu. Son armée, dispersée. Et avec elle s'effondre tout un système de domination [SU2].
+
+La tradition raconte que Soumaoro, vaincu, s'enfuit et disparaît — certaines versions disent qu'il se serait pétrifié, transformé en pierre, dans une grotte de la région de Koulikoro [SP1]. Là encore, le merveilleux scelle un fait simple : le tyran a cessé d'exister, et plus personne ne l'a revu régner.
+
+[NARRATION]
+Mesurons ce qui vient de se passer. Un enfant qu'on disait incapable de marcher, un exilé sans terre, vient de renverser l'empire qui écrasait son peuple. Mais gagner une bataille n'est pas fonder un État. Le plus difficile commence.
+
+[NOTE PROD : décrue de l'intensité, transition vers la construction politique. Cliffhanger : « Et maintenant, que faire de la victoire ? »]
+
+---
+
+## 5. La riposte Sosso — et la fin d'un monde  `[~20:00–24:00]`
+
+> NB : épisode médiéval, NON colonial. L'acte 5 du gabarit (« contre-offensive coloniale »)
+> est réinterprété ici comme la résistance et l'effondrement du pouvoir Sosso.
+
+[VISUEL : S06 — place forte sous attaque ; S08 — village après un raid Sosso.]
+[NOTE PROD : sombre, puis apaisement progressif.]
+
+[NARRATION]
+La chute de Soumaoro à Kirina n'efface pas tout en un jour. Le royaume Sosso avait des places fortes, des alliés, des villes fidèles. Et la tradition, comme l'histoire, gardent la mémoire d'une campagne pour briser définitivement la puissance Sosso et rallier les territoires qui hésitaient encore [SP1][SU2].
+
+Parmi ces épisodes, les griots citent la prise de villes Sosso, et notamment d'un grand centre marchand et artisanal — un foyer de la puissance du fer Sosso — qui tombe aux mains de la coalition. La domination qui avait pesé sur le Manden bascule camp par camp, ville par ville.
+
+[VISUEL : E04 — chaînes brisées, libération des clans.]
+
+[NARRATION]
+Et c'est là que le sens profond de cette guerre apparaît. Pour les peuples du Manden, la victoire n'est pas seulement militaire. C'est la fin d'un système de razzias, de tributs, d'asservissements. Les chaînes tombent. Les clans qui se craignaient hier se découvrent membres d'un même ensemble. Soundiata n'a pas seulement gagné une guerre : il a créé les conditions d'une paix.
+
+Mais une paix ne tient pas sur une simple victoire. Elle tient sur des règles. Et c'est précisément ce que Soundiata va faire — quelque chose de rare dans l'histoire des conquérants. Il va, non pas s'emparer du pouvoir absolu, mais le partager et l'encadrer.
+
+[NOTE PROD : silence, montée lumineuse vers l'acte du triomphe.]
+
+---
+
+## 6. Triomphe et Kurukan Fuga  `[~24:00–27:00]`
+
+[VISUEL : S09 — l'assemblée du Kurukan Fuga proclamant la charte ; P06 — Soundiata intronisé Mansa.]
+[NOTE PROD : solennel, lumineux. Kora, balafon, voix.]
+
+[NARRATION]
+Aux alentours de l'an 1235-1236, sur une plaine au sol de latérite près de la cité de Ka-ba — l'actuelle Kangaba — se réunit une grande assemblée. Les clans, les chefs de guerre, les familles du Manden sont là. Et Soundiata est proclamé Mansa : empereur, roi des rois [SP1][SU2].
+
+Le lieu de cette assemblée a donné son nom à l'événement : Kurukan Fuga, que l'on traduit par « la clairière sur la roche » [SU4]. Et ce qui s'y proclame, selon la tradition, est la Charte du Manden — un ensemble de principes qui doivent régir le nouvel empire.
+
+[VISUEL : insert — texte stylisé des principes, sobres, défilant.]
+
+[NARRATION]
+Que dit cette charte, telle qu'elle nous est transmise ? Elle proclame la paix sociale dans la diversité. L'inviolabilité de la personne humaine. Le droit à l'éducation. La sécurité alimentaire. Le respect de la patrie. La liberté de parole et de commerce. Et — point remarquable — l'abolition de l'asservissement par la razzia [SP2][SU4].
+
+Soyons précis, car c'est important. Cette charte nous est parvenue par l'oralité, et sa formulation actuelle a été reconstituée lors d'un atelier de griots à Kankan, en Guinée, en 1998 [SP2]. On ne peut donc pas la lire comme un document juridique figé du XIIIe siècle au mot près. Les historiens débattent de ce qui, dans ses formules, remonte à Soundiata et de ce qui a été reformulé au fil des siècles [SU5][SU6].
+
+Mais ce qui n'est pas en débat, c'est sa portée. En 2009, l'UNESCO a inscrit « la Charte du Manden, proclamée à Kurukan Fuga » sur la Liste représentative du patrimoine culturel immatériel de l'humanité [SU4]. Et beaucoup y voient l'une des plus anciennes expressions connues de principes que nous appellerions aujourd'hui « droits humains » — une assemblée africaine, au XIIIe siècle, posant par la parole les règles du vivre-ensemble.
+
+[NARRATION]
+Soundiata, désormais Mansa, installe le cœur de son pouvoir. La tradition place sa capitale à Niani — même si les archéologues débattent encore de son emplacement exact [SU2][SU5]. L'empire grandit, prospère, place sous son autorité les routes de l'or et du sel. Les fondations posées par Soundiata porteront l'Empire du Mali pendant deux siècles.
+
+[NOTE PROD : apaisement, transition vers la réflexion finale.]
+
+---
+
+## 7. Pourquoi il a été oublié (hors d'Afrique)  `[~27:00–28:30]`
+
+[VISUEL : P07 — Soundiata de profil, symbolique ; E04 → manuscrit qui s'efface.]
+[NOTE PROD : sobre, introspectif.]
+
+[NARRATION]
+Alors posons la question qui ouvrait cette vidéo. Comment un fondateur d'empire, un libérateur, l'homme d'une des plus anciennes chartes du monde, a-t-il pu glisser hors de nos manuels ?
+
+La première raison tient à la nature même de sa source. L'histoire de Soundiata s'est transmise par la parole des griots, non par des parchemins. Or, pendant longtemps, une certaine historiographie — notamment coloniale — a considéré que sans document écrit, il n'y avait pas d'histoire « véritable » [SU5][SU6]. La tradition orale a été reléguée au rang de folklore, de conte. On a écouté les pierres d'Europe et oublié d'écouter la voix de l'Afrique.
+
+La deuxième raison est plus simple, et plus dure : le récit colonial avait besoin d'une Afrique « sans histoire », une Afrique qu'on pourrait présenter comme un continent à civiliser. Reconnaître qu'il existait, au XIIIe siècle, des empires structurés, des chartes, des assemblées, c'était saper la justification même de la conquête.
+
+[NARRATION]
+Il a fallu attendre 1960 — l'année des indépendances africaines — pour qu'un historien guinéen, Djibril Tamsir Niane, recueille le récit du griot Djeli Mamoudou Kouyaté et publie *Soundjata ou l'épopée mandingue* [SU1]. Son but était double : sauver ce trésor de la mémoire, et prouver que la tradition orale est une source historique légitime. Grâce à lui, et à ceux qui ont suivi, Soundiata est sorti de l'oubli savant.
+
+Reste l'oubli scolaire, le nôtre. Et c'est précisément la mission de cette chaîne : rendre à ces noms la place que les programmes leur ont refusée.
+
+---
+
+## 8. Héritage  `[~28:30–30:00]`
+
+[VISUEL : C05 — étendue de l'Empire du Mali ; E05 — une kora et la flamme de la mémoire.]
+[NOTE PROD : thème principal à la kora, clôture lumineuse.]
+
+[NARRATION]
+L'héritage de Soundiata ne tient pas seulement dans les frontières qu'il a tracées. Il tient dans ce qui a duré après lui.
+
+L'Empire du Mali qu'il a fondé est devenu, au siècle suivant, si prospère que l'un de ses descendants, le Mansa Moussa, lors de son pèlerinage à La Mecque en 1324, distribua tant d'or sur sa route que les prix, dit-on, en furent durablement bouleversés [SU2]. Cette richesse légendaire prend racine dans l'État bâti par Soundiata.
+
+Son héritage tient aussi dans la Charte du Manden, toujours vivante, célébrée, reconnue par l'humanité entière à travers l'UNESCO [SU4]. Il tient dans la mémoire des griots, qui aujourd'hui encore récitent son épopée, de génération en génération [SP1][SU5].
+
+[NARRATION]
+Et il tient peut-être dans un écho que vous n'attendiez pas. Le surnom de Soundiata, « le lion du Manden », l'histoire d'un héritier d'abord exilé qui revient reconquérir le royaume de son père : ces motifs résonnent dans des récits que le monde entier connaît aujourd'hui. On a souvent rapproché l'épopée de Soundiata de certaines fictions contemporaines. Soyons honnêtes : ce rapprochement est discuté, et nul créateur n'a reconnu l'avoir copié. Mais qu'on en débatte prouve une chose : cette histoire africaine du XIIIe siècle a la force d'un mythe universel.
+
+Soundiata Keïta n'a pas eu besoin de nos manuels pour être grand. C'est à nous, désormais, de ne plus l'oublier.
+
+[VISUEL : retour sur P01, puis fondu au noir. Carton « SOURCES » renvoyant à la description.]
+[NOTE PROD : dernière note de kora, silence.]
+
+---
+
+## Notes de production & contrôle final
+
+- **Distinction histoire / épopée** : tenue tout au long ; « selon la tradition » employé pour
+  la barre de fer, le coq blanc, la pétrification de Soumaoro, etc.
+- **Datations** : toujours « vers » (v. 1235, v. 1236, v. 1255).
+- **Sources à afficher en fin de vidéo** : Niane 1960 [SU1] ; UNESCO Kurukan Fuga [SU4] ;
+  Levtzion & Hopkins 1981 [SU4 (corpus)] ; *Histoire générale de l'Afrique* vol. IV [SU2].
+- **Prudence assumée à l'écran** : rapprochement avec *Le Roi Lion* présenté comme
+  discuté, jamais comme un fait.
+
+### Checklist
+- [ ] Recompter le nombre de mots (cible 5500–6500) après relecture à voix haute.
+- [ ] Vérifier les paginations des sources avant d'afficher des citations exactes.
+- [ ] Caler les timecodes sur 07_Montage/Timeline.md.
+- [ ] Reporter les sources sélectionnées dans 05_Metadata/Description.md.
